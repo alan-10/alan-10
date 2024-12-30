@@ -1,6 +1,6 @@
 
   
-##  Olá, meu nome é <strong>Alan!</strong>
+##  Olá, me chamo <strong>Alan!</strong>
 
 > Sou  desenvoldor  fullstack, e totalmente  apaixonado por tecnologias  💜
 🔭 . Que tal dar uma olhadinha nos meus projetos?
